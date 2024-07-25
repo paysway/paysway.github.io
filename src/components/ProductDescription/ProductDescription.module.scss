@@ -1,0 +1,123 @@
+@use '../../styles/Typography.module' as typography;
+@import "../../styles/Common.module";
+@import "../../styles/UIKit.module";
+
+.mainBox {
+  display: flex;
+  flex-direction: row;
+}
+
+
+.illustrationWrapper {
+
+}
+
+.illustrationBox {
+  margin: 0;
+  padding: 0;
+  width: min(50vw, 640px);
+  aspect-ratio: 1 / 1;
+  position: sticky;
+  top: calc(50vh - min(50vw, 640px) / 2);
+}
+
+.textBox {
+  margin: 0;
+  padding: 40px 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+}
+
+.pointsBox {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  list-style-type: none;
+}
+
+.actionsBox {
+  margin: 0;
+  padding: 0 0 0 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.pointBox {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+}
+
+.pointNumber {
+  margin: 0;
+  padding: 0;
+  height: 36px;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #7543DD;
+  color: #7543DD;
+  @include typography.subtitle;
+}
+
+.pointText {
+  margin: 0;
+  padding: 0;
+  @include typography.subtitle;
+}
+
+.pointFirstWord {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 1100px) {
+  .textBox {
+    padding: 30px 36px;
+  }
+
+  .pointBox {
+    gap: 12px;
+  }
+
+  .actionsBox {
+    padding: 0 0 0 52px;
+  }
+}
+
+
+@media screen and (max-width: 900px) {
+  .mainBox {
+    flex-direction: column-reverse;
+  }
+
+  .textBox {
+    padding: 0 36px 100px;
+  }
+
+  .pointBox {
+    gap: 16px;
+  }
+
+  .illustrationBox {
+    width: auto;
+  }
+}
+
+@media screen and (max-width: 500px) {
+
+  .textBox {
+    padding: 0 16px 72px;
+  }
+
+  .pointBox {
+    gap: 8px;
+  }
+}

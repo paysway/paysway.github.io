@@ -1,0 +1,150 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;">
+<g clip-path="url(#clip0_1009_9295)">
+<g filter="url(#filter0_d_1009_9295)">
+<path d="M30 58.7645C30 49.414 37.58 41.834 46.9305 41.834H716.07C725.42 41.834 733 49.414 733 58.7645V288.07C733 297.42 725.42 305 716.07 305H46.9305C37.58 305 30 297.42 30 288.07V58.7645Z" fill="white"/>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="86.8923">ID</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1699" y="86.8923">Currency</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.766" y="86.8923">Country</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="213.361" y="86.8923">Bank identifier</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="311.957" y="86.8923">Identifier type</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.553" y="86.8923">Account number</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="561.148" y="86.8923">Intermediary</tspan></text>
+<line x1="52.5742" y1="112.829" x2="710.426" y2="112.829" stroke="#A8A8A8" stroke-width="0.879779"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="147.04">1</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1621" y="147.04">SEK</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.785" y="147.04">SE</tspan></text>
+<g clip-path="url(#clip1_1009_9295)">
+<path d="M222.465 132.5C220.388 132.5 218.358 133.116 216.631 134.27C214.905 135.423 213.559 137.063 212.764 138.982C211.969 140.9 211.761 143.012 212.167 145.048C212.572 147.085 213.572 148.956 215.04 150.425C216.509 151.893 218.38 152.893 220.416 153.298C222.453 153.703 224.564 153.495 226.483 152.701C228.402 151.906 230.042 150.56 231.195 148.833C232.349 147.107 232.965 145.077 232.965 143C232.965 140.215 231.859 137.545 229.889 135.575C227.92 133.606 225.25 132.5 222.465 132.5ZM222.465 152C220.685 152 218.945 151.472 217.465 150.483C215.985 149.494 214.831 148.089 214.15 146.444C213.469 144.8 213.291 142.99 213.638 141.244C213.985 139.498 214.842 137.895 216.101 136.636C217.36 135.377 218.963 134.52 220.709 134.173C222.455 133.826 224.264 134.004 225.909 134.685C227.554 135.366 228.959 136.52 229.948 138C230.937 139.48 231.465 141.22 231.465 143C231.465 145.387 230.517 147.676 228.829 149.364C227.141 151.052 224.852 152 222.465 152Z" fill="#A8A8A8"/>
+<path d="M222.465 149.75C223.086 149.75 223.59 149.246 223.59 148.625C223.59 148.004 223.086 147.5 222.465 147.5C221.844 147.5 221.34 148.004 221.34 148.625C221.34 149.246 221.844 149.75 222.465 149.75Z" fill="#A8A8A8"/>
+<path d="M223.215 137H222.09C221.646 136.999 221.207 137.086 220.797 137.255C220.387 137.424 220.015 137.673 219.701 137.986C219.388 138.3 219.139 138.672 218.97 139.082C218.8 139.492 218.714 139.932 218.715 140.375V140.75H220.215V140.375C220.215 139.878 220.412 139.401 220.764 139.049C221.116 138.698 221.593 138.5 222.09 138.5H223.215C223.712 138.5 224.189 138.698 224.541 139.049C224.892 139.401 225.09 139.878 225.09 140.375C225.09 140.872 224.892 141.349 224.541 141.701C224.189 142.052 223.712 142.25 223.215 142.25H221.715V145.625H223.215V143.75C224.11 143.75 224.968 143.394 225.601 142.761C226.234 142.129 226.59 141.27 226.59 140.375C226.59 139.48 226.234 138.621 225.601 137.989C224.968 137.356 224.11 137 223.215 137Z" fill="#A8A8A8"/>
+</g>
+<g clip-path="url(#clip2_1009_9295)">
+<path d="M321 132.5C318.923 132.5 316.893 133.116 315.167 134.27C313.44 135.423 312.094 137.063 311.299 138.982C310.505 140.9 310.297 143.012 310.702 145.048C311.107 147.085 312.107 148.956 313.575 150.425C315.044 151.893 316.915 152.893 318.952 153.298C320.988 153.703 323.1 153.495 325.018 152.701C326.937 151.906 328.577 150.56 329.73 148.833C330.884 147.107 331.5 145.077 331.5 143C331.5 140.215 330.394 137.545 328.425 135.575C326.455 133.606 323.785 132.5 321 132.5ZM321 152C319.22 152 317.48 151.472 316 150.483C314.52 149.494 313.366 148.089 312.685 146.444C312.004 144.8 311.826 142.99 312.173 141.244C312.52 139.498 313.377 137.895 314.636 136.636C315.895 135.377 317.498 134.52 319.244 134.173C320.99 133.826 322.8 134.004 324.444 134.685C326.089 135.366 327.494 136.52 328.483 138C329.472 139.48 330 141.22 330 143C330 145.387 329.052 147.676 327.364 149.364C325.676 151.052 323.387 152 321 152Z" fill="#A8A8A8"/>
+<path d="M321 149.75C321.621 149.75 322.125 149.246 322.125 148.625C322.125 148.004 321.621 147.5 321 147.5C320.379 147.5 319.875 148.004 319.875 148.625C319.875 149.246 320.379 149.75 321 149.75Z" fill="#A8A8A8"/>
+<path d="M321.75 137H320.625C320.182 136.999 319.742 137.086 319.332 137.255C318.922 137.424 318.55 137.673 318.236 137.986C317.923 138.3 317.674 138.672 317.505 139.082C317.336 139.492 317.249 139.932 317.25 140.375V140.75H318.75V140.375C318.75 139.878 318.948 139.401 319.299 139.049C319.651 138.698 320.128 138.5 320.625 138.5H321.75C322.247 138.5 322.724 138.698 323.076 139.049C323.427 139.401 323.625 139.878 323.625 140.375C323.625 140.872 323.427 141.349 323.076 141.701C322.724 142.052 322.247 142.25 321.75 142.25H320.25V145.625H321.75V143.75C322.645 143.75 323.504 143.394 324.136 142.761C324.769 142.129 325.125 141.27 325.125 140.375C325.125 139.48 324.769 138.621 324.136 137.989C323.504 137.356 322.645 137 321.75 137Z" fill="#A8A8A8"/>
+</g>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.959" y="147.04">8921XXXXXX</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="561.555" y="147.04">–</tspan></text>
+<line x1="52.5742" y1="172.977" x2="710.426" y2="172.977" stroke="#F4F4F4" stroke-width="0.879779"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="207.188">2</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1621" y="207.188">USD</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.785" y="207.188">US</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="213.529" y="207.188">121000248</tspan></text>
+<g clip-path="url(#clip3_1009_9295)">
+<path d="M321 192.648C318.923 192.648 316.893 193.264 315.167 194.418C313.44 195.571 312.094 197.211 311.299 199.13C310.505 201.048 310.297 203.16 310.702 205.196C311.107 207.233 312.107 209.104 313.575 210.573C315.044 212.041 316.915 213.041 318.952 213.446C320.988 213.851 323.1 213.643 325.018 212.849C326.937 212.054 328.577 210.708 329.73 208.981C330.884 207.255 331.5 205.225 331.5 203.148C331.5 200.363 330.394 197.692 328.425 195.723C326.455 193.754 323.785 192.648 321 192.648ZM321 212.148C319.22 212.148 317.48 211.62 316 210.631C314.52 209.642 313.366 208.237 312.685 206.592C312.004 204.948 311.826 203.138 312.173 201.392C312.52 199.646 313.377 198.043 314.636 196.784C315.895 195.525 317.498 194.668 319.244 194.321C320.99 193.974 322.8 194.152 324.444 194.833C326.089 195.514 327.494 196.668 328.483 198.148C329.472 199.628 330 201.368 330 203.148C330 205.535 329.052 207.824 327.364 209.512C325.676 211.2 323.387 212.148 321 212.148Z" fill="#A8A8A8"/>
+<path d="M321 209.898C321.621 209.898 322.125 209.394 322.125 208.773C322.125 208.152 321.621 207.648 321 207.648C320.379 207.648 319.875 208.152 319.875 208.773C319.875 209.394 320.379 209.898 321 209.898Z" fill="#A8A8A8"/>
+<path d="M321.75 197.148H320.625C320.182 197.147 319.742 197.234 319.332 197.403C318.922 197.572 318.55 197.821 318.236 198.134C317.923 198.448 317.674 198.82 317.505 199.23C317.336 199.64 317.249 200.079 317.25 200.523V200.898H318.75V200.523C318.75 200.026 318.948 199.549 319.299 199.197C319.651 198.846 320.128 198.648 320.625 198.648H321.75C322.247 198.648 322.724 198.846 323.076 199.197C323.427 199.549 323.625 200.026 323.625 200.523C323.625 201.02 323.427 201.497 323.076 201.849C322.724 202.2 322.247 202.398 321.75 202.398H320.25V205.773H321.75V203.898C322.645 203.898 323.504 203.542 324.136 202.909C324.769 202.277 325.125 201.418 325.125 200.523C325.125 199.628 324.769 198.769 324.136 198.136C323.504 197.504 322.645 197.148 321.75 197.148Z" fill="#A8A8A8"/>
+</g>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.959" y="207.188">73245125</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="561.555" y="207.188">–</tspan></text>
+<line x1="52.5742" y1="233.125" x2="710.426" y2="233.125" stroke="#F4F4F4" stroke-width="0.879779"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="267.336">3</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1621" y="267.336">PLN</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.785" y="267.336">GB</tspan></text>
+<g clip-path="url(#clip4_1009_9295)">
+<path d="M222.465 252.796C220.388 252.796 218.358 253.412 216.631 254.565C214.905 255.719 213.559 257.359 212.764 259.278C211.969 261.196 211.761 263.308 212.167 265.344C212.572 267.381 213.572 269.252 215.04 270.721C216.509 272.189 218.38 273.189 220.416 273.594C222.453 273.999 224.564 273.791 226.483 272.997C228.402 272.202 230.042 270.856 231.195 269.129C232.349 267.403 232.965 265.373 232.965 263.296C232.965 260.511 231.859 257.84 229.889 255.871C227.92 253.902 225.25 252.796 222.465 252.796ZM222.465 272.296C220.685 272.296 218.945 271.768 217.465 270.779C215.985 269.79 214.831 268.385 214.15 266.74C213.469 265.096 213.291 263.286 213.638 261.54C213.985 259.794 214.842 258.191 216.101 256.932C217.36 255.673 218.963 254.816 220.709 254.469C222.455 254.122 224.264 254.3 225.909 254.981C227.554 255.662 228.959 256.816 229.948 258.296C230.937 259.776 231.465 261.516 231.465 263.296C231.465 265.683 230.517 267.972 228.829 269.66C227.141 271.348 224.852 272.296 222.465 272.296Z" fill="#A8A8A8"/>
+<path d="M222.465 270.046C223.086 270.046 223.59 269.542 223.59 268.921C223.59 268.3 223.086 267.796 222.465 267.796C221.844 267.796 221.34 268.3 221.34 268.921C221.34 269.542 221.844 270.046 222.465 270.046Z" fill="#A8A8A8"/>
+<path d="M223.215 257.296H222.09C221.646 257.295 221.207 257.382 220.797 257.551C220.387 257.72 220.015 257.969 219.701 258.282C219.388 258.596 219.139 258.968 218.97 259.378C218.8 259.788 218.714 260.227 218.715 260.671V261.046H220.215V260.671C220.215 260.174 220.412 259.697 220.764 259.345C221.116 258.993 221.593 258.796 222.09 258.796H223.215C223.712 258.796 224.189 258.993 224.541 259.345C224.892 259.697 225.09 260.174 225.09 260.671C225.09 261.168 224.892 261.645 224.541 261.997C224.189 262.348 223.712 262.546 223.215 262.546H221.715V265.921H223.215V264.046C224.11 264.046 224.968 263.69 225.601 263.057C226.234 262.424 226.59 261.566 226.59 260.671C226.59 259.776 226.234 258.917 225.601 258.284C224.968 257.651 224.11 257.296 223.215 257.296Z" fill="#A8A8A8"/>
+</g>
+<g clip-path="url(#clip5_1009_9295)">
+<path d="M321 252.796C318.923 252.796 316.893 253.412 315.167 254.565C313.44 255.719 312.094 257.359 311.299 259.278C310.505 261.196 310.297 263.308 310.702 265.344C311.107 267.381 312.107 269.252 313.575 270.721C315.044 272.189 316.915 273.189 318.952 273.594C320.988 273.999 323.1 273.791 325.018 272.997C326.937 272.202 328.577 270.856 329.73 269.129C330.884 267.403 331.5 265.373 331.5 263.296C331.5 260.511 330.394 257.84 328.425 255.871C326.455 253.902 323.785 252.796 321 252.796ZM321 272.296C319.22 272.296 317.48 271.768 316 270.779C314.52 269.79 313.366 268.385 312.685 266.74C312.004 265.096 311.826 263.286 312.173 261.54C312.52 259.794 313.377 258.191 314.636 256.932C315.895 255.673 317.498 254.816 319.244 254.469C320.99 254.122 322.8 254.3 324.444 254.981C326.089 255.662 327.494 256.816 328.483 258.296C329.472 259.776 330 261.516 330 263.296C330 265.683 329.052 267.972 327.364 269.66C325.676 271.348 323.387 272.296 321 272.296Z" fill="#A8A8A8"/>
+<path d="M321 270.046C321.621 270.046 322.125 269.542 322.125 268.921C322.125 268.3 321.621 267.796 321 267.796C320.379 267.796 319.875 268.3 319.875 268.921C319.875 269.542 320.379 270.046 321 270.046Z" fill="#A8A8A8"/>
+<path d="M321.75 257.296H320.625C320.182 257.295 319.742 257.382 319.332 257.551C318.922 257.72 318.55 257.969 318.236 258.282C317.923 258.596 317.674 258.968 317.505 259.378C317.336 259.788 317.249 260.227 317.25 260.671V261.046H318.75V260.671C318.75 260.174 318.948 259.697 319.299 259.345C319.651 258.993 320.128 258.796 320.625 258.796H321.75C322.247 258.796 322.724 258.993 323.076 259.345C323.427 259.697 323.625 260.174 323.625 260.671C323.625 261.168 323.427 261.645 323.076 261.997C322.724 262.348 322.247 262.546 321.75 262.546H320.25V265.921H321.75V264.046C322.645 264.046 323.504 263.69 324.136 263.057C324.769 262.424 325.125 261.566 325.125 260.671C325.125 259.776 324.769 258.917 324.136 258.284C323.504 257.651 322.645 257.296 321.75 257.296Z" fill="#A8A8A8"/>
+</g>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.959" y="267.336">GBXXREVOXXXXXXX</tspan></text>
+<g clip-path="url(#clip6_1009_9295)">
+<path d="M570.49 252.796C568.414 252.796 566.383 253.412 564.657 254.565C562.93 255.719 561.584 257.359 560.79 259.278C559.995 261.196 559.787 263.308 560.192 265.344C560.597 267.381 561.597 269.252 563.066 270.721C564.534 272.189 566.405 273.189 568.442 273.594C570.479 273.999 572.59 273.791 574.508 272.997C576.427 272.202 578.067 270.856 579.221 269.129C580.374 267.403 580.99 265.373 580.99 263.296C580.99 260.511 579.884 257.84 577.915 255.871C575.946 253.902 573.275 252.796 570.49 252.796ZM570.49 272.296C568.71 272.296 566.97 271.768 565.49 270.779C564.01 269.79 562.857 268.385 562.175 266.74C561.494 265.096 561.316 263.286 561.663 261.54C562.01 259.794 562.868 258.191 564.126 256.932C565.385 255.673 566.989 254.816 568.734 254.469C570.48 254.122 572.29 254.3 573.934 254.981C575.579 255.662 576.985 256.816 577.973 258.296C578.962 259.776 579.49 261.516 579.49 263.296C579.49 265.683 578.542 267.972 576.854 269.66C575.166 271.348 572.877 272.296 570.49 272.296Z" fill="#A8A8A8"/>
+<path d="M570.49 270.046C571.112 270.046 571.615 269.542 571.615 268.921C571.615 268.3 571.112 267.796 570.49 267.796C569.869 267.796 569.365 268.3 569.365 268.921C569.365 269.542 569.869 270.046 570.49 270.046Z" fill="#A8A8A8"/>
+<path d="M571.24 257.296H570.115C569.672 257.295 569.232 257.382 568.823 257.551C568.413 257.72 568.04 257.969 567.727 258.282C567.413 258.596 567.164 258.968 566.995 259.378C566.826 259.788 566.739 260.227 566.74 260.671V261.046H568.24V260.671C568.24 260.174 568.438 259.697 568.789 259.345C569.141 258.993 569.618 258.796 570.115 258.796H571.24C571.738 258.796 572.214 258.993 572.566 259.345C572.918 259.697 573.115 260.174 573.115 260.671C573.115 261.168 572.918 261.645 572.566 261.997C572.214 262.348 571.738 262.546 571.24 262.546H569.74V265.921H571.24V264.046C572.135 264.046 572.994 263.69 573.627 263.057C574.26 262.424 574.615 261.566 574.615 260.671C574.615 259.776 574.26 258.917 573.627 258.284C572.994 257.651 572.135 257.296 571.24 257.296Z" fill="#A8A8A8"/>
+</g>
+</g>
+<g filter="url(#filter1_d_1009_9295)">
+<path d="M30 351.931C30 342.58 37.58 335 46.9305 335H716.07C725.42 335 733 342.58 733 351.931V581.236C733 590.586 725.42 598.166 716.07 598.166H46.9305C37.58 598.166 30 590.586 30 581.236V351.931Z" fill="white"/>
+<path d="M31 351.931C31 343.132 38.1323 336 46.9305 336H716.07C724.868 336 732 343.132 732 351.931V581.236C732 590.034 724.868 597.166 716.07 597.166H46.9305C38.1323 597.166 31 590.034 31 581.236V351.931Z" stroke="#7543DD" stroke-width="2"/>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="380.058">ID</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1699" y="380.058">Currency</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.766" y="380.058">Country</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="213.361" y="380.058">Bank identifier</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="311.957" y="380.058">Identifier type</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.553" y="380.058">Account number</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="561.148" y="380.058">Intermediary</tspan></text>
+<line x1="52.5742" y1="405.995" x2="710.426" y2="405.995" stroke="#8D8D8D" stroke-width="0.879779"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="440.206">1</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1621" y="440.206">SEK</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.785" y="440.206">SE</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="800" letter-spacing="0.0879779px"><tspan x="213.529" y="440.206">8921</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="800" letter-spacing="0.0879779px"><tspan x="312.064" y="440.206">SE</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.959" y="440.206">8921XXXXXX</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="561.555" y="440.206">–</tspan></text>
+<line x1="52.5742" y1="466.143" x2="710.426" y2="466.143" stroke="#F4F4F4" stroke-width="0.879779"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="500.354">2</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1621" y="500.354">USD</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.785" y="500.354">US</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="213.529" y="500.354">121000248</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="800" letter-spacing="0.0879779px"><tspan x="312.064" y="500.354">FW</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.959" y="500.354">73245125</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="561.555" y="500.354">–</tspan></text>
+<line x1="52.5742" y1="526.291" x2="710.426" y2="526.291" stroke="#F4F4F4" stroke-width="0.879779"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="52.5742" y="560.502">3</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="82.1621" y="560.502">PLN</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="150.785" y="560.502">GB</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="800" letter-spacing="0.0879779px"><tspan x="213.529" y="560.502">REVOGB2L</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="800" letter-spacing="0.0879779px"><tspan x="312.064" y="560.502">BIC</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="500" letter-spacing="0.0879779px"><tspan x="407.959" y="560.502">GBXXREVOXXXXXXX</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="11.4371" font-weight="800" letter-spacing="0.0879779px"><tspan x="561.555" y="560.502">BARCGB22</tspan></text>
+</g>
+<g filter="url(#filter2_b_1009_9295)">
+<rect x="52.5742" y="323.045" width="94.8" height="26.4" rx="3.2" fill="#7543DD"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="59.0996" y="340.209">With PaySway</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1009_9295" x="-16.5589" y="9.38385" width="796.118" height="356.284" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="14.1088"/>
+<feGaussianBlur stdDeviation="23.2794"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.133333 0 0 0 0 0.188235 0 0 0 0 0.286275 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1009_9295"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1009_9295" result="shape"/>
+</filter>
+<filter id="filter1_d_1009_9295" x="-16.5589" y="302.55" width="796.118" height="356.284" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="14.1088"/>
+<feGaussianBlur stdDeviation="23.2794"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.133333 0 0 0 0 0.188235 0 0 0 0 0.286275 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1009_9295"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1009_9295" result="shape"/>
+</filter>
+<filter id="filter2_b_1009_9295" x="1.37421" y="271.845" width="197.2" height="128.8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="25.6"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1009_9295"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1009_9295" result="shape"/>
+</filter>
+<clipPath id="clip0_1009_9295">
+<rect width="640" height="640" fill="white"/>
+</clipPath>
+<clipPath id="clip1_1009_9295">
+<rect width="24" height="24" fill="white" transform="translate(210.465 131)"/>
+</clipPath>
+<clipPath id="clip2_1009_9295">
+<rect width="24" height="24" fill="white" transform="translate(309 131)"/>
+</clipPath>
+<clipPath id="clip3_1009_9295">
+<rect width="24" height="24" fill="white" transform="translate(309 191.148)"/>
+</clipPath>
+<clipPath id="clip4_1009_9295">
+<rect width="24" height="24" fill="white" transform="translate(210.465 251.296)"/>
+</clipPath>
+<clipPath id="clip5_1009_9295">
+<rect width="24" height="24" fill="white" transform="translate(309 251.296)"/>
+</clipPath>
+<clipPath id="clip6_1009_9295">
+<rect width="24" height="24" fill="white" transform="translate(558.49 251.296)"/>
+</clipPath>
+</defs>
+</svg>

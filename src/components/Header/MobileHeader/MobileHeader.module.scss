@@ -1,0 +1,37 @@
+@import "../../../styles/Common.module";
+
+.header {
+  display: flex;
+  padding: 20px 24px;
+  align-self: stretch;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header.mobileMenuActive {
+  background-color: #E8E4F9;
+}
+
+.burgerIcon {
+  height: 32px;
+  width: 32px;
+  background-image: url("../../../assets/burger.svg");
+}
+
+.closeIcon {
+  height: 32px;
+  width: 32px;
+  background-image: url("../../../assets/close.svg");
+}
+
+@media screen and (max-width: 700px) {
+  .header {
+    padding: 20px 36px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .header {
+    padding: 20px 16px;
+  }
+}

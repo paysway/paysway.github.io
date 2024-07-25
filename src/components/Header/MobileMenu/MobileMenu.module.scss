@@ -1,0 +1,85 @@
+@use '../../../styles/Typography.module' as typography;
+
+.mobileMenu {
+  margin: 0;
+  padding: 40px 24px;
+  height: 100vh;
+  width: 100vw;
+  z-index: 100;
+  background-color: #E8E4F9;
+}
+
+.mobileMenuContent {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  list-style-type: none;
+}
+
+.menuItem {
+  margin: 0;
+  padding: 0;
+  color: #000;
+  @include typography.subtitleSemibold
+}
+
+.menuSublist {
+  margin: 8px 0 0 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 8px
+}
+
+
+.menuSublistItem {
+  margin: 0;
+  padding: 0;
+  @include typography.subtitle
+}
+
+
+.menuLink {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #000;
+
+  &:hover {
+    color: #5E36B1;
+  }
+
+  &:active {
+    color: #522F9B;
+  }
+}
+
+.lockIcon {
+  display: flex;
+  align-items: center;
+  position: relative;
+
+  &:after {
+    content: '';
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-color: #000;
+    mask-image: url("../../../assets/lock.svg");
+    -webkit-mask-image: url("../../../assets/lock.svg");
+  }
+
+  &:hover:after {
+    background-color: #7543DD;
+  }
+}
+
+
+@media screen and (max-width: 700px) {
+  .mobileMenu {
+    padding: 40px 16px;
+  }
+}

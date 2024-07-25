@@ -1,0 +1,137 @@
+@use '../../styles/Typography.module' as typography;
+@import "../../styles/Common.module";
+
+
+.blogBox {
+  margin: 120px auto 0;
+  padding: 0 36px;
+}
+
+.blogHeader {
+  margin: 0 0 4px 0;
+  @include typography.sectionHeader;
+}
+
+.link {
+  position: relative;
+  padding-right: 22px;
+  color: #000;
+  text-decoration: none;
+  transition: padding-right 0.3s ease, color 0.3s ease;
+  @include typography.bodyMedium;
+
+  &:hover {
+    color: #5E36B1;
+    padding-right: 26px;
+  }
+
+  &:active {
+    color: #522F9B;
+  }
+}
+
+.link::after {
+  position: absolute;
+  content: url("../../assets/rightArrow.svg");
+  width: 16px;
+  height: 24px;
+  right: 0;
+  top: 0;
+  transition: right 0.3s ease;
+}
+
+.link:hover::after {
+  content: url('../../assets/rightArrowHover.svg')
+}
+
+.link:active::after {
+  content: url('../../assets/rightArrowActive.svg')
+}
+
+.blogPostsList {
+  margin: 36px auto 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  gap: 36px;
+}
+
+.blogPost {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: 33%;
+}
+
+.blogPostImage {
+  margin: 0;
+  padding: 0;
+  display: block;
+  width: 100%;
+  aspect-ratio: 1.625;
+}
+
+.blogPostText {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 12px;
+}
+
+.blogPostTitle {
+  padding: 0;
+  margin: 0;
+  @include typography.subtitleSemibold;
+}
+
+.blogPostLink {
+  width: fit-content;
+  margin-top: auto;
+}
+
+@media screen and (max-width: 1100px) {
+  .blogBox {
+    margin: 80px auto 0;
+    padding: 0 36px;
+  }
+
+  .blogHeader {
+    @include typography.sectionHeaderMobile;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .blogBox {
+    margin: 64px auto 0;
+    padding: 0 24px;
+  }
+
+  .blogPostsList {
+    gap: 20px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .blogBox {
+    padding: 0 36px;
+  }
+
+  .blogPostsList {
+    flex-direction: column;
+    gap: 48px
+  }
+
+  .blogPost {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .blogBox {
+    padding: 0 16px;
+  }
+}

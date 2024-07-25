@@ -1,0 +1,152 @@
+@use '../../styles/Typography.module' as typography;
+@import '../../styles/Common.module';
+
+.linesWrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.mainBox {
+  margin: 0;
+  padding: 120px 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  z-index: 3;
+  position: relative;
+}
+
+.headerBox {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+}
+
+.header {
+  margin: 0;
+  padding: 0;
+  @include typography.mainHeader;
+}
+
+.productIcon {
+  width: 59px;
+  height: 59px;
+}
+
+.subtitleBox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 120px;
+}
+
+.subtitle {
+  max-width: 698px;
+  margin: 0;
+  @include typography.subsectionHeaderSemibold;
+}
+
+.tip {
+  display: flex;
+  flex-direction: column;
+  width: 390px;
+  gap: 12px;
+}
+
+.percent {
+  @include typography.mainTitleMobile
+}
+
+.percentsSpan {
+  margin: 0;
+  padding: 0;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.21px;
+  align-self: stretch;
+
+  .sup {
+    line-height: 0;
+    font-size: 0.6em;
+    vertical-align: super;
+  }
+}
+
+.line {
+  position: absolute;
+  top: 0;
+  left: calc(50vw - 960px);
+  width: 1920px;
+  height: 790px;
+  z-index: -100;
+  opacity: 25%;
+}
+
+@media screen and (max-width: 1100px) {
+  .headerBox {
+    flex-direction: column-reverse;
+    gap: 16px;
+    align-items: flex-start
+  }
+
+  .header {
+    @include typography.mainTitleMobile;
+  }
+
+  .subtitleBox {
+    gap: 80px;
+  }
+
+  .subtitle {
+    @include typography.subsectionHeaderMobileSemibold;
+  }
+
+  .tip {
+    width: 328px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .mainBox {
+    padding: 120px 24px;
+    gap: 40px;
+  }
+
+  .subtitleBox {
+    gap: 40px;
+  }
+
+  .tip {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .mainBox {
+    padding: 64px 36px 100px;
+    gap: 40px;
+  }
+
+  .subtitleBox {
+    flex-direction: column;
+    gap: 40px;
+  }
+
+  .tip {
+    width: 70%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+
+  .mainBox {
+    padding: 64px 16px 100px;
+  }
+
+  .tip {
+    width: auto;
+  }
+}

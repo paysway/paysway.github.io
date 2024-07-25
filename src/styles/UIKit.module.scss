@@ -1,0 +1,43 @@
+@use './Typography.module' as typography;
+
+.button {
+  margin: 0;
+  padding: 12px 16px;
+  display: block;
+  background: #7543DD;
+  border-radius: 8px;
+  color: #FFFFFF;
+  width: fit-content;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  @include typography.bodyMedium;
+  font-family: inherit;
+  transition: background 0.3s ease;
+
+  &:hover {
+    background: #5E36B1;
+    color: #FFFFFF;
+  }
+
+  &:active {
+    background: #522F9B;
+    color: #FFFFFF;
+  }
+}
+
+
+.link {
+  color: #000;
+  @include typography.bodyLinkRegular;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #5E36B1;
+  }
+
+  &:active {
+    color: #522F9B;
+  }
+}

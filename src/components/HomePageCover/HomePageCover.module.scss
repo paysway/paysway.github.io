@@ -1,0 +1,92 @@
+@use '../../styles/Typography.module' as typography;
+@import "../../styles/Common.module";
+
+.mainBox {
+  margin: 0;
+  padding: 0 0 0 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 72px;
+}
+
+.textBox {
+  margin: 60px 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  justify-content: center;
+}
+
+.title {
+  margin: 0;
+  padding: 0;
+  @include typography.mainHeader;
+}
+
+.subtitle {
+  margin: 0;
+  padding: 0;
+  @include typography.subtitle;
+}
+
+.officeBuildingBox {
+  margin: 38px 0;
+  padding: 0;
+  min-width: min(50vw, 640px);
+  position: relative;
+  background-image: url("../../assets/officeBuilding.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 1100px) {
+
+  .mainBox {
+    gap: 36px;
+  }
+
+  .textBox {
+    margin: 36px 0;
+  }
+
+  .title {
+    @include typography.mainTitleMobile;
+  }
+
+  .illustrationBox {
+    margin: 32px 0;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .mainBox {
+    padding: 0 0 0 24px;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .mainBox {
+    padding: 20px 36px 12px 36px;
+    flex-direction: column;
+    gap: 24px;
+  }
+
+  .textBox {
+    margin: 0;
+    padding: 0;
+    gap: 24px;
+  }
+
+  .illustrationBox {
+    margin: 0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .mainBox {
+    padding: 20px 16px 12px 16px;
+  }
+}

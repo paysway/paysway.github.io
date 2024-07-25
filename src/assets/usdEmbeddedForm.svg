@@ -1,0 +1,117 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;">
+<g clip-path="url(#clip0_301_6175)">
+<g opacity="0.4" filter="url(#filter0_d_301_6175)">
+<rect x="160" y="95" width="400" height="618" rx="24" fill="white"/>
+</g>
+<g opacity="0.6" filter="url(#filter1_d_301_6175)">
+<rect x="140" y="75" width="400" height="618" rx="24" fill="white"/>
+</g>
+<g filter="url(#filter2_d_301_6175)">
+<rect x="120" y="55" width="400" height="640" rx="24" fill="white"/>
+<text fill="#393939" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="26" font-weight="600" letter-spacing="-0.5px"><tspan x="152" y="112.455">Add wire account</tspan></text>
+<text fill="#393939" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" letter-spacing="0em"><tspan x="152" y="160.818">Please provide the bank and account details</tspan></text>
+<text fill="#393939" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="152" y="208.818">Currency</tspan></text>
+<rect x="152.5" y="221.5" width="335" height="47" rx="5.5" fill="white"/>
+<rect x="152.5" y="221.5" width="335" height="47" rx="5.5" stroke="#C6C6C6"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="168" y="250.818">$ USD</tspan></text>
+<path d="M466 248L461 243H471L466 248Z" fill="#393939"/>
+<text fill="#393939" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="152" y="310.818">Country</tspan></text>
+<rect x="152.5" y="323.5" width="335" height="47" rx="5.5" fill="white"/>
+<rect x="152.5" y="323.5" width="335" height="47" rx="5.5" stroke="#C6C6C6"/>
+<g clip-path="url(#clip1_301_6175)">
+<mask id="mask0_301_6175" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="168" y="335" width="24" height="24">
+<path d="M192 347C192 340.373 186.627 335 180 335C173.373 335 168 340.373 168 347C168 353.627 173.373 359 180 359C186.627 359 192 353.627 192 347Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_301_6175)">
+<path d="M192 347C192 340.373 186.627 335 180 335C173.373 335 168 340.373 168 347C168 353.627 173.373 359 180 359C186.627 359 192 353.627 192 347Z" fill="white"/>
+<mask id="mask1_301_6175" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="168" y="335" width="24" height="24">
+<path d="M180 359C186.627 359 192 353.627 192 347C192 340.373 186.627 335 180 335C173.373 335 168 340.373 168 347C168 353.627 173.373 359 180 359Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_301_6175)">
+<path d="M168 335H192V359H168V335Z" fill="white"/>
+<path d="M180 335H168V347.934H180V335Z" fill="#231D9A"/>
+<path d="M175.752 338.17L176.655 337.267L175.752 336.364L174.849 337.267L175.752 338.17Z" fill="white"/>
+<path d="M175.752 341.822L176.655 340.919L175.752 340.016L174.849 340.919L175.752 341.822Z" fill="white"/>
+<path d="M175.752 345.474L176.655 344.571L175.752 343.668L174.849 344.571L175.752 345.474Z" fill="white"/>
+<path d="M170.936 338.17L171.839 337.267L170.936 336.364L170.033 337.267L170.936 338.17Z" fill="white"/>
+<path d="M170.936 341.822L171.839 340.919L170.936 340.016L170.033 340.919L170.936 341.822Z" fill="white"/>
+<path d="M170.936 345.474L171.839 344.571L170.936 343.668L170.033 344.571L170.936 345.474Z" fill="white"/>
+<path d="M178.16 339.996L179.062 339.093L178.16 338.19L177.257 339.093L178.16 339.996Z" fill="white"/>
+<path d="M178.16 336.344L179.062 335.441L178.16 334.538L177.257 335.441L178.16 336.344Z" fill="white"/>
+<path d="M178.16 343.648L179.062 342.745L178.16 341.842L177.257 342.745L178.16 343.648Z" fill="white"/>
+<path d="M178.16 347.3L179.062 346.397L178.16 345.494L177.257 346.397L178.16 347.3Z" fill="white"/>
+<path d="M173.344 339.996L174.247 339.093L173.344 338.19L172.441 339.093L173.344 339.996Z" fill="white"/>
+<path d="M173.344 343.648L174.247 342.745L173.344 341.842L172.441 342.745L173.344 343.648Z" fill="white"/>
+<path d="M173.344 347.3L174.247 346.397L173.344 345.494L172.441 346.397L173.344 347.3Z" fill="white"/>
+<path d="M168.528 339.996L169.431 339.093L168.528 338.19L167.625 339.093L168.528 339.996Z" fill="white"/>
+<path d="M168.528 343.648L169.431 342.745L168.528 341.842L167.625 342.745L168.528 343.648Z" fill="white"/>
+<path d="M168.528 347.3L169.431 346.397L168.528 345.494L167.625 346.397L168.528 347.3Z" fill="white"/>
+<path d="M197.718 334.877H180V336.742H197.718V334.877Z" fill="#F0263C"/>
+<path d="M193.056 338.607H180V340.472H193.056V338.607Z" fill="#F0263C"/>
+<path d="M193.056 342.337H180V344.202H193.056V342.337Z" fill="#F0263C"/>
+<path d="M197.718 346.067H180V347.933H197.718V346.067Z" fill="#F0263C"/>
+<path d="M197.625 349.798H168.25V351.663H197.625V349.798Z" fill="#F0263C"/>
+<path d="M197.625 353.528H168.25V355.393H197.625V353.528Z" fill="#F0263C"/>
+<path d="M197.625 357.258H168.25V359.123H197.625V357.258Z" fill="#F0263C"/>
+</g>
+</g>
+</g>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="202" y="352.818">United States</tspan></text>
+<path d="M466 350L461 345H471L466 350Z" fill="#393939"/>
+<text fill="#393939" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="152" y="412.818">I have...</tspan></text>
+<rect x="152.5" y="425.5" width="335" height="47" rx="5.5" fill="white"/>
+<rect x="152.5" y="425.5" width="335" height="47" rx="5.5" stroke="#C6C6C6"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="168" y="454.818">BIC and account number</tspan></text>
+<path d="M466 452L461 447H471L466 452Z" fill="#393939"/>
+<path d="M152 502C152 492.611 159.611 485 169 485H471C480.389 485 488 492.611 488 502V624C488 633.389 480.389 641 471 641H169C159.611 641 152 633.389 152 624V502Z" fill="url(#paint0_linear_301_6175)" fill-opacity="0.1"/>
+<rect x="169" y="506" width="302" height="46" rx="5" fill="white"/>
+<rect x="169" y="506" width="302" height="46" rx="5" stroke="#205F9E" stroke-width="2"/>
+<text fill="#205F9E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184" y="534.818">BIC</tspan></text>
+<rect x="169" y="574" width="302" height="46" rx="5" fill="white"/>
+<rect x="169" y="574" width="302" height="46" rx="5" stroke="#205F9E" stroke-width="2"/>
+<text fill="#205F9E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184" y="602.818">Account number</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_301_6175" x="94" y="49" width="532" height="750" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="33"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.133333 0 0 0 0 0.188235 0 0 0 0 0.286275 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_301_6175"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_301_6175" result="shape"/>
+</filter>
+<filter id="filter1_d_301_6175" x="74" y="29" width="532" height="750" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="33"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.133333 0 0 0 0 0.188235 0 0 0 0 0.286275 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_301_6175"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_301_6175" result="shape"/>
+</filter>
+<filter id="filter2_d_301_6175" x="54" y="9" width="532" height="772" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="20"/>
+<feGaussianBlur stdDeviation="33"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.133333 0 0 0 0 0.188235 0 0 0 0 0.286275 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_301_6175"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_301_6175" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_301_6175" x1="470.691" y1="475.059" x2="215.916" y2="710.241" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D4CD5"/>
+<stop offset="0.715" stop-color="#18D3ED"/>
+</linearGradient>
+<clipPath id="clip0_301_6175">
+<rect width="640" height="640" fill="white"/>
+</clipPath>
+<clipPath id="clip1_301_6175">
+<rect x="168" y="335" width="24" height="24" rx="12" fill="white"/>
+</clipPath>
+</defs>
+</svg>

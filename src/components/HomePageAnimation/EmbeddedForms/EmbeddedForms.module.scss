@@ -1,0 +1,7 @@
+@use '../../../styles/Typography.module' as typography;
+
+.formBox {
+  aspect-ratio: 1 / 1;
+  box-sizing: border-box;
+  overflow: hidden;
+}

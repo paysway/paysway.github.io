@@ -1,0 +1,159 @@
+@use '../../styles/Typography.module' as typography;
+@import "../../styles/Common.module";
+@import "../../styles/UIKit.module";
+
+.footerSection {
+  background-color: #F4F4F4;
+}
+
+.mainBox {
+  margin: 120px auto 0;
+  padding: 64px 36px 200px 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  justify-content: space-between;
+}
+
+.logoBox {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: 100%;
+}
+
+.letteringLogo {
+  width: 144px;
+}
+
+.copyright {
+  margin: 0;
+  padding: 0;
+  @include typography.bodySmall;
+}
+
+.footerList {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  list-style-type: none;
+  color: #525252;
+}
+
+.footerListHeader {
+  color: #000;
+  @include typography.bodySemibold
+}
+
+.footerListItem {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  list-style-type: none;
+}
+
+.footerSublist {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  list-style-type: none;
+  color: #525252;
+}
+
+.footerSublistItem {
+  @include typography.bodyRegular
+}
+
+.addressHeader {
+  margin: 0 0 6px 0;
+  padding: 0;
+  color: #262626;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+}
+
+.addressLine {
+  margin: 0;
+  padding: 0;
+  @include typography.bodyRegular;
+}
+
+.follow {
+  min-width: 140px;
+  display: flex;
+  flex-direction: column;
+  gap: 11px;
+}
+
+.linkedIn {
+  margin: 0;
+  padding: 0;
+  display: block;
+  width: 33px;
+  height: 32px;
+  transition: background-image 0.3s ease;
+  background-image: url("../../assets/linkedin.svg");
+
+  &:hover {
+    background-image: url("../../assets/linkedinHover.svg");
+  }
+
+  &:active {
+    background-image: url("../../assets/linkedinActive.svg");
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .footer {
+    margin: 80px auto 0;
+  }
+}
+
+@media screen and (max-width: 900px) {
+
+  .mainBox {
+    padding: 36px 36px 100px 36px;
+    width: fit-content;
+    flex-direction: column;
+    gap: 64px;
+    align-items: center;
+  }
+
+  .logoBox{
+    align-items: center;
+  }
+
+  .footerList {
+    align-items: center;
+  }
+
+  .footerSublist {
+    align-items: center;
+  }
+
+  .footerListHeader {
+    text-align: center;
+  }
+
+  .addressHeader {
+    text-align: center;
+  }
+
+  .addressLine {
+    text-align: center;
+  }
+
+  .follow {
+    align-items: center;
+  }
+}
