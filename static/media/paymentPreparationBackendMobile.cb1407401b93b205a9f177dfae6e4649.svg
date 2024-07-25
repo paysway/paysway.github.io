@@ -1,0 +1,56 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;">
+<g clip-path="url(#clip0_1249_5608)">
+<g filter="url(#filter0_d_1249_5608)">
+<path d="M20 75.426C20 66.7938 26.9978 59.796 35.63 59.796H653.37C662.002 59.796 669 66.7938 669 75.426V284.574C669 293.206 662.002 300.204 653.37 300.204H35.63C26.9978 300.204 20 293.206 20 284.574V75.426Z" fill="white"/>
+<path d="M20.9232 75.426C20.9232 67.3037 27.5077 60.7192 35.63 60.7192H653.37C661.492 60.7192 668.077 67.3037 668.077 75.426V284.574C668.077 292.696 661.492 299.281 653.37 299.281H35.63C27.5076 299.281 20.9232 292.696 20.9232 284.574V75.426Z" stroke="#7543DD" stroke-width="1.84637"/>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="40.8398" y="101.393">ID</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="68.084" y="101.393">Currency</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="131.328" y="101.393">Country</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="189.572" y="101.393">Bank identifier</tspan></text>
+<text fill="#6F6F6F" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="280.815" y="101.393">Identifier type</tspan></text>
+<line x1="40.8398" y1="124.49" x2="648.16" y2="124.49" stroke="#8D8D8D" stroke-width="0.8122"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="40.8398" y="156.073">1</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="68.1553" y="156.073">SEK</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="131.507" y="156.073">SE</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="800" letter-spacing="0.08122px"><tspan x="189.431" y="156.073">8921</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="800" letter-spacing="0.08122px"><tspan x="280.397" y="156.073">SE</tspan></text>
+<line x1="40.8398" y1="179.17" x2="648.16" y2="179.17" stroke="#F4F4F4" stroke-width="0.8122"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="40.8398" y="210.753">2</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="68.1553" y="210.753">USD</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="131.507" y="210.753">US</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="189.431" y="210.753">121000248</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="800" letter-spacing="0.08122px"><tspan x="280.397" y="210.753">FW</tspan></text>
+<line x1="40.8398" y1="233.85" x2="648.16" y2="233.85" stroke="#F4F4F4" stroke-width="0.8122"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="40.8398" y="265.857">3</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="68.1553" y="265.857">PLN</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="500" letter-spacing="0.08122px"><tspan x="131.507" y="265.857">GB</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="800" letter-spacing="0.08122px"><tspan x="189.431" y="265.857">REVOGB2L</tspan></text>
+<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="10.5586" font-weight="800" letter-spacing="0.08122px"><tspan x="280.397" y="265.857">BIC</tspan></text>
+</g>
+<g filter="url(#filter1_b_1249_5608)">
+<rect x="42.5742" y="46.2583" width="94.8" height="26.4" rx="3.2" fill="#7543DD"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="12" font-weight="500" letter-spacing="0em"><tspan x="49.0996" y="63.4219">With PaySway</tspan></text>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1249_5608" x="-22.9825" y="29.8385" width="734.965" height="326.373" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="13.025"/>
+<feGaussianBlur stdDeviation="21.4913"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.133333 0 0 0 0 0.188235 0 0 0 0 0.286275 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1249_5608"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1249_5608" result="shape"/>
+</filter>
+<filter id="filter1_b_1249_5608" x="-8.62579" y="-4.9417" width="197.2" height="128.8" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="25.6"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1249_5608"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1249_5608" result="shape"/>
+</filter>
+<clipPath id="clip0_1249_5608">
+<rect width="360" height="360" fill="white"/>
+</clipPath>
+</defs>
+</svg>
