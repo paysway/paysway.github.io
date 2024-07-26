@@ -63,13 +63,13 @@
 <rect x="152.5" y="425.5" width="335" height="47" rx="5.5" stroke="#C6C6C6"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="168" y="454.818">BIC and account number</tspan></text>
 <path d="M466 452L461 447H471L466 452Z" fill="#393939"/>
-<rect x="152" y="485" width="336" height="156" rx="10" fill="#F8F6FC"/>
+<path d="M152 502C152 492.611 159.611 485 169 485H471C480.389 485 488 492.611 488 502V624C488 633.389 480.389 641 471 641H169C159.611 641 152 633.389 152 624V502Z" fill="url(#paint0_linear_301_6175)" fill-opacity="0.1"/>
 <rect x="169" y="506" width="302" height="46" rx="5" fill="white"/>
-<rect x="169" y="506" width="302" height="46" rx="5" stroke="#7543DD" stroke-width="2"/>
-<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184" y="534.818">BIC</tspan></text>
+<rect x="169" y="506" width="302" height="46" rx="5" stroke="#205F9E" stroke-width="2"/>
+<text fill="#205F9E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184" y="534.818">BIC</tspan></text>
 <rect x="169" y="574" width="302" height="46" rx="5" fill="white"/>
-<rect x="169" y="574" width="302" height="46" rx="5" stroke="#7543DD" stroke-width="2"/>
-<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184" y="602.818">Account number</tspan></text>
+<rect x="169" y="574" width="302" height="46" rx="5" stroke="#205F9E" stroke-width="2"/>
+<text fill="#205F9E" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184" y="602.818">Account number</tspan></text>
 </g>
 </g>
 <defs>
@@ -103,6 +103,10 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_301_6175"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_301_6175" result="shape"/>
 </filter>
+<linearGradient id="paint0_linear_301_6175" x1="470.691" y1="475.059" x2="215.916" y2="710.241" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D4CD5"/>
+<stop offset="0.715" stop-color="#18D3ED"/>
+</linearGradient>
 <clipPath id="clip0_301_6175">
 <rect width="640" height="640" fill="white"/>
 </clipPath>

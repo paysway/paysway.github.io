@@ -42,13 +42,13 @@
 <rect x="153" y="425.5" width="335" height="47" rx="5.5" stroke="#C6C6C6"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="168.5" y="454.818">Sort code and account number</tspan></text>
 <path d="M466.5 452L461.5 447H471.5L466.5 452Z" fill="#393939"/>
-<rect x="152.5" y="485" width="336" height="156" rx="10" fill="#F8F6FC"/>
+<rect x="152.5" y="485" width="336" height="156" rx="17" fill="url(#paint0_linear_3005_6415)" fill-opacity="0.1"/>
 <rect x="169.5" y="506" width="302" height="46" rx="5" fill="white"/>
-<rect x="169.5" y="506" width="302" height="46" rx="5" stroke="#7543DD" stroke-width="2"/>
-<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184.5" y="534.818">Sort code</tspan></text>
+<rect x="169.5" y="506" width="302" height="46" rx="5" stroke="#2E6DC5" stroke-width="2"/>
+<text fill="#2E6DC5" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184.5" y="534.818">Sort code</tspan></text>
 <rect x="169.5" y="574" width="302" height="46" rx="5" fill="white"/>
-<rect x="169.5" y="574" width="302" height="46" rx="5" stroke="#7543DD" stroke-width="2"/>
-<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184.5" y="602.818">Account number</tspan></text>
+<rect x="169.5" y="574" width="302" height="46" rx="5" stroke="#2E6DC5" stroke-width="2"/>
+<text fill="#2E6DC5" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="184.5" y="602.818">Account number</tspan></text>
 </g>
 </g>
 <defs>
@@ -82,6 +82,10 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_3005_6415"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_3005_6415" result="shape"/>
 </filter>
+<linearGradient id="paint0_linear_3005_6415" x1="471.191" y1="475.059" x2="216.416" y2="710.241" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6D4CD5"/>
+<stop offset="1" stop-color="#18D3ED"/>
+</linearGradient>
 <clipPath id="clip0_3005_6415">
 <rect width="640" height="640" fill="white" transform="translate(0.5)"/>
 </clipPath>
