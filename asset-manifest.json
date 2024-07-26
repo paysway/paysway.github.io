@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.862e0879.css",
-    "main.js": "/static/js/main.9ae97b09.js",
+    "main.css": "/static/css/main.61c07e46.css",
+    "main.js": "/static/js/main.d29f6420.js",
     "static/js/453.3c05ba23.chunk.js": "/static/js/453.3c05ba23.chunk.js",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
     "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
@@ -37,12 +37,12 @@
     "static/media/paymentPreparationLine.svg": "/static/media/paymentPreparationLine.98fd0cce36fc6663aa5c0c0d0e7e3eff.svg",
     "static/media/headerDropdownArrow.svg": "/static/media/headerDropdownArrow.ba3f8c009269fbb79092.svg",
     "static/media/purpleDot.svg": "/static/media/purpleDot.79c8c79d9e9ba8817291.svg",
-    "main.862e0879.css.map": "/static/css/main.862e0879.css.map",
-    "main.9ae97b09.js.map": "/static/js/main.9ae97b09.js.map",
+    "main.61c07e46.css.map": "/static/css/main.61c07e46.css.map",
+    "main.d29f6420.js.map": "/static/js/main.d29f6420.js.map",
     "453.3c05ba23.chunk.js.map": "/static/js/453.3c05ba23.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.862e0879.css",
-    "static/js/main.9ae97b09.js"
+    "static/css/main.61c07e46.css",
+    "static/js/main.d29f6420.js"
   ]
 }
