@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.87862da0.css",
-    "main.js": "/static/js/main.86011b43.js",
+    "main.js": "/static/js/main.bad16b7f.js",
     "static/js/453.3c05ba23.chunk.js": "/static/js/453.3c05ba23.chunk.js",
     "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
     "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
@@ -9,7 +9,7 @@
     "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
     "static/media/officeBuilding.webp": "/static/media/officeBuilding.55b1cd73e802613abc3c.webp",
     "static/media/paymentPreparationBackend.svg": "/static/media/paymentPreparationBackend.73adc017112d250e0010a981fa9af209.svg",
-    "static/media/paymentPreparationFrontend.svg": "/static/media/paymentPreparationFrontend.d14798e1343a82d212d2570590368fe5.svg",
+    "static/media/paymentPreparationFrontend.svg": "/static/media/paymentPreparationFrontend.6ea3496fafdb0a05ffd05e2118222739.svg",
     "static/media/usdEmbeddedForm.svg": "/static/media/usdEmbeddedForm.34d2891f42eb9fcde8f6e48c2e9b2544.svg",
     "static/media/embeddedFormsAdminPanel.svg": "/static/media/embeddedFormsAdminPanel.416907023cf32b2f4323f9cdda0b455e.svg",
     "static/media/gbpEmbeddedForm.svg": "/static/media/gbpEmbeddedForm.5e8160931224a6c3b78619a8ac0eb021.svg",
@@ -38,11 +38,11 @@
     "static/media/headerDropdownArrow.svg": "/static/media/headerDropdownArrow.ba3f8c009269fbb79092.svg",
     "static/media/purpleDot.svg": "/static/media/purpleDot.79c8c79d9e9ba8817291.svg",
     "main.87862da0.css.map": "/static/css/main.87862da0.css.map",
-    "main.86011b43.js.map": "/static/js/main.86011b43.js.map",
+    "main.bad16b7f.js.map": "/static/js/main.bad16b7f.js.map",
     "453.3c05ba23.chunk.js.map": "/static/js/453.3c05ba23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.87862da0.css",
-    "static/js/main.86011b43.js"
+    "static/js/main.bad16b7f.js"
   ]
 }
