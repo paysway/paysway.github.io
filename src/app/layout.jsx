@@ -1,3 +1,5 @@
+import {GoogleAnalytics} from '@next/third-parties/google'
+
 export const metadata = {
     title: 'PaySway | Radically improve bank payments',
     description:
@@ -10,6 +12,7 @@ export default function RootLayout({ children }) {
         <html lang="en">
             <body>
                 <div id="root">{children}</div>
+                <GoogleAnalytics gaId={process.env.GOOGLE_ANALYTICS_ID} />
             </body>
         </html>
     )
