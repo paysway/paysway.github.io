@@ -1,9 +1,9 @@
 import Tabs from '../Tabs/Tabs'
 import stl from './PaymentPreparationIllustration.module.scss'
 
-import { ReactComponent as Frontend } from '../../assets/paymentPreparationFrontend.svg'
-import { ReactComponent as Backend } from '../../assets/paymentPreparationBackend.svg'
-import { ReactComponent as BackendMobile } from '../../assets/paymentPreparationBackendMobile.svg'
+import Frontend from '../../../public/images/paymentPreparationFrontend.svg?inline'
+import Backend from '../../../public/images/paymentPreparationBackend.svg?inline'
+import BackendMobile from '../../../public/images/paymentPreparationBackendMobile.svg?inline'
 import { useEffect, useState } from 'react'
 
 function PaymentPreparationIllustration() {

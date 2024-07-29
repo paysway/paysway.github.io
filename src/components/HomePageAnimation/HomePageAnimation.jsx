@@ -1,8 +1,8 @@
 import Lottie from 'react-lottie-player'
-import paymentPreparation1Lottie from '../../assets/lotties/paymentPreparationPart1.json'
-import paymentPreparation2Lottie from '../../assets/lotties/paymentPreparationPart2.json'
-import pennyTesting1Lottie from '../../assets/lotties/pennyTestingPart1.json'
-import pennyTesting2Lottie from '../../assets/lotties/pennyTestingPart2.json'
+import paymentPreparation1Lottie from '../../../public/lotties/paymentPreparationPart1.json'
+import paymentPreparation2Lottie from '../../../public/lotties/paymentPreparationPart2.json'
+import pennyTesting1Lottie from '../../../public/lotties/pennyTestingPart1.json'
+import pennyTesting2Lottie from '../../../public/lotties/pennyTestingPart2.json'
 import { Fragment, useEffect, useRef, useState } from 'react'
 import stl from './HomePageAnimation.module.scss'
 import EmbeddedForms from "./EmbeddedForms/EmbeddedForms";

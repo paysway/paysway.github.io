@@ -1,13 +1,14 @@
 import React from 'react'
 import stl from './Footer.module.scss'
-import payswayLetteringLogo from '../../assets/payswayLetteringLogo.svg'
+import payswayLetteringLogo from '../../../public/images/letteringLogo.svg'
 import {
     contacts,
     externalLinks,
     homePagePath,
     products,
 } from '../../constants'
-import {Link} from "react-router-dom";
+import Image from 'next/image'
+import Link from 'next/link'
 
 function Footer() {
     return (
@@ -16,7 +17,7 @@ function Footer() {
                 <div className={stl.sectionBox}>
                     <div className={stl.mainBox}>
                         <div className={stl.logoBox}>
-                            <img
+                            <Image
                                 className={stl.letteringLogo}
                                 src={payswayLetteringLogo}
                                 alt="PaySway"
@@ -40,7 +41,7 @@ function Footer() {
                                         <li>
                                             <Link
                                                 className={stl.link}
-                                                to={product.path}
+                                                href={product.path}
                                             >
                                                 {product.name}
                                             </Link>

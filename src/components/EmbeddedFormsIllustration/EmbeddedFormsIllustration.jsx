@@ -1,6 +1,6 @@
 import stl from './EmbeddedFormsIllustration.module.scss'
 
-import { ReactComponent as AdminPanel } from '../../assets/embeddedFormsAdminPanel.svg'
+import AdminPanel from '../../../public/images/embeddedFormsAdminPanel.svg?inline'
 
 function EmbeddedFormsIllustration() {
     return (

@@ -1,5 +1,6 @@
 import stl from './HomePageProductsListItem.module.scss'
-import {Link} from "react-router-dom";
+import Image from 'next/image'
+import Link from 'next/link'
 
 function HomePageProductsListItem({
     content: {
@@ -15,7 +16,7 @@ function HomePageProductsListItem({
         <div className={stl.productContent}>
             <div className={stl.header}>
                 <div className={stl.productNameBox}>
-                    <img
+                    <Image
                         className={stl.productIcon}
                         src={productIcon}
                         alt={`${productName} icon`}
@@ -25,7 +26,7 @@ function HomePageProductsListItem({
                 <h3 className={stl.title}>{title}</h3>
             </div>
             <p className={stl.productDescription}>{description}</p>
-            <Link to={path} className={stl.textDecorationNone}>
+            <Link href={path} className={stl.textDecorationNone}>
                 <button className={stl.button}>{buttonText}</button>
             </Link>
         </div>

@@ -1,4 +1,5 @@
 import stl from './ProductPageCover.module.scss'
+import Image from 'next/image'
 
 function ProductPageCover({
     content: { title, subtitle, productIcon, tip, line },
@@ -10,7 +11,7 @@ function ProductPageCover({
                     <div className={stl.mainBox}>
                         <div className={stl.headerBox}>
                             <h1 className={stl.header}>{title}</h1>
-                            <img
+                            <Image
                                 className={stl.productIcon}
                                 src={productIcon}
                                 alt={'product icon'}
@@ -22,7 +23,7 @@ function ProductPageCover({
                                 <span className={stl.percent}>
                                     {tip.percent}%
                                 </span>
-                                <img src={tip.bar} alt="process" />
+                                <Image src={tip.bar} alt="process" />
                                 <span className={stl.percentsSpan}>
                                     {tip.text}
                                     <sup className={stl.sup}>1</sup>
@@ -31,7 +32,7 @@ function ProductPageCover({
                         </div>
                     </div>
                 </div>
-                <img className={stl.line} src={line} alt="line" />
+                <Image className={stl.line} src={line} alt="line" />
             </div>
         </section>
     )

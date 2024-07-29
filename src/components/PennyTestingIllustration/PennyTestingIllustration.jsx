@@ -1,5 +1,5 @@
 import stl from './PennyTestingIllustration.module.scss'
-import pennyTestingFullLottie from "../../assets/lotties/pennyTestingFull.json";
+import pennyTestingFullLottie from "../../../public/lotties/pennyTestingFull.json";
 import Lottie from "react-lottie-player";
 import React, {useEffect, useRef} from "react";
 

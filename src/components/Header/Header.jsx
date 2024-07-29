@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react'
 import MobileHeader from './MobileHeader/MobileHeader'
 import DefaultHeader from './DefaultHeader/DefaultHeader'
 
+import dynamic from 'next/dynamic';
+
 function Header() {
     const [isMobile, setIsMobile] = useState(window.innerWidth <= 900)
 

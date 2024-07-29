@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import stl from './HomePageCover.module.scss'
-import officeBuildingAnimation from '../../assets/lotties/officeBuilding.json'
+import officeBuildingAnimation from '../../../public/lotties/officeBuilding.json'
 import Lottie from 'react-lottie-player'
 
 const initialFrame = 50;

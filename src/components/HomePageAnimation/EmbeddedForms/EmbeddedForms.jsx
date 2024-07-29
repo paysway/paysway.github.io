@@ -1,6 +1,6 @@
-import { ReactComponent as GBPEmbeddedForm } from '../../../assets/gbpEmbeddedForm.svg'
-import { ReactComponent as USDEmbeddedForm } from '../../../assets/usdEmbeddedForm.svg'
-import { ReactComponent as EUREmbeddedForm } from '../../../assets/eurEmbeddedForm.svg'
+import GBPEmbeddedForm from '../../../../public/images/gbpEmbeddedForm.svg?inline'
+import USDEmbeddedForm from '../../../../public/images/usdEmbeddedForm.svg?inline'
+import EUREmbeddedForm from '../../../../public/images/eurEmbeddedForm.svg?inline'
 import stl from './EmbeddedForms.module.scss'
 
 import Tabs from '../../Tabs/Tabs'

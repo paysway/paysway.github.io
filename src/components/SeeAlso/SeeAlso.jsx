@@ -1,5 +1,6 @@
 import stl from './SeeAlso.module.scss'
-import {Link} from "react-router-dom";
+import Image from 'next/image'
+import Link from 'next/link'
 
 function SeeAlso({ otherProducts }) {
     return (
@@ -10,12 +11,12 @@ function SeeAlso({ otherProducts }) {
                     <ul className={stl.list}>
                         {otherProducts.map((item, index) => (
                             <li key={index} className={stl.listItem}>
-                                <Link to={item.path} className={stl.link}>
+                                <Link href={item.path} className={stl.link}>
                                     <h3 className={stl.productName}>
                                         {item.title}
                                     </h3>
                                     <div className={stl.logoBox}>
-                                        <img
+                                        <Image
                                             className={stl.logo}
                                             src={item.icon}
                                             alt={item.title}

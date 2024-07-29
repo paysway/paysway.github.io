@@ -45,7 +45,7 @@
   }
 
   &:hover .logoBox::after {
-    content: url("../../assets/bigRightArrow.svg");
+    content: url("../../../public/images/bigRightArrow.svg");
     width: 36px;
     height: 40px;
     margin-left: 22px;
@@ -62,7 +62,7 @@
 
 .logoBox {
   &::after {
-    content: url("../../assets/bigRightArrow.svg");
+    content: url("../../../public/images/bigRightArrow.svg");
     width: 36px;
     height: 40px;
     margin-left: 22px;

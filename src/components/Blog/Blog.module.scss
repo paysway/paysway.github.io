@@ -32,7 +32,7 @@
 
 .link::after {
   position: absolute;
-  content: url("../../assets/rightArrow.svg");
+  content: url("../../../public/images/rightArrow.svg");
   width: 16px;
   height: 24px;
   right: 0;
@@ -41,11 +41,11 @@
 }
 
 .link:hover::after {
-  content: url('../../assets/rightArrowHover.svg')
+  content: url('../../../public/images/rightArrowHover.svg')
 }
 
 .link:active::after {
-  content: url('../../assets/rightArrowActive.svg')
+  content: url('../../../public/images/rightArrowActive.svg')
 }
 
 .blogPostsList {
@@ -63,6 +63,7 @@
   flex-direction: column;
   gap: 24px;
   width: 33%;
+  position: relative;
 }
 
 .blogPostImage {
@@ -71,6 +72,7 @@
   display: block;
   width: 100%;
   aspect-ratio: 1.625;
+  position: relative;
 }
 
 .blogPostText {

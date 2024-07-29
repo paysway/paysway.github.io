@@ -102,14 +102,14 @@
   width: 33px;
   height: 32px;
   transition: background-image 0.3s ease;
-  background-image: url("../../assets/linkedin.svg");
+  background-image: url("../../../public/images/linkedin.svg");
 
   &:hover {
-    background-image: url("../../assets/linkedinHover.svg");
+    background-image: url("../../../public/images/linkedinHover.svg");
   }
 
   &:active {
-    background-image: url("../../assets/linkedinActive.svg");
+    background-image: url("../../../public/images/linkedinActive.svg");
   }
 }
 

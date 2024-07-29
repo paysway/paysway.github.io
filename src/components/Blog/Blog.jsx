@@ -1,5 +1,6 @@
 import stl from './Blog.module.scss'
 import { blogPosts, externalLinks } from '../../constants'
+import Image from 'next/image'
 
 function Blog() {
     return (
@@ -14,13 +15,14 @@ function Blog() {
                         {blogPosts.map((post) => {
                             return (
                                 <div className={stl.blogPost}>
-                                    <a
-                                        href={post.link}>
-                                        <img
-                                            className={stl.blogPostImage}
-                                            src={post.coverLink}
-                                            alt={'blog post cover'}
-                                        />
+                                    <a href={post.link}>
+                                        <div className={stl.blogPostImage}>
+                                            <Image
+                                                fill={true}
+                                                src={post.coverLink}
+                                                alt={'blog post cover'}
+                                            />
+                                        </div>
                                     </a>
                                     <div className={stl.blogPostText}>
                                         <p className={stl.blogPostTitle}>

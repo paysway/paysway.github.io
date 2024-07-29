@@ -7,15 +7,16 @@ import {
     products,
 } from '../../../constants'
 import React from 'react'
-import {Link} from "react-router-dom";
+import Image from 'next/image'
+import Link from 'next/link'
 
 function DropDownListItem({ title, icon, path }) {
     return (
-        <Link to={path} className={stl.dropDownListItem}>
-            <img
+        <Link href={path} className={stl.dropDownListItem}>
+            <Image
                 className={stl.dropDownListItemIcon}
                 src={icon}
-                alt={`${title} icon`}
+                alt={`product icon`}
             />
             <div className={stl.dropDownListItemText}>{title}</div>
         </Link>

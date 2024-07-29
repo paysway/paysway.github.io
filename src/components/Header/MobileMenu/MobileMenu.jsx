@@ -4,7 +4,7 @@ import {
     developersLink, externalLinks,
     homePagePath, products,
 } from '../../../constants'
-import {Link} from "react-router-dom";
+import Link from "next/link"
 
 function MobileMenu() {
     return (
@@ -20,7 +20,7 @@ function MobileMenu() {
                     <ul className={stl.menuSublist}>
                         {Object.values(products).map((product) => (
                             <li className={stl.menuSublistItem}>
-                                <Link to={product.path} className={stl.menuLink}>
+                                <Link href={product.path} className={stl.menuLink}>
                                     {product.name}
                                 </Link>
                             </li>

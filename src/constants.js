@@ -1,10 +1,10 @@
-import paymentPreparationIcon from './assets/paymentPreparationIcon.svg'
-import pennyTestingIcon from './assets/pennyTestingIcon.svg'
-import embeddedFormsIcon from './assets/embeddedFormsIcon.svg'
-import paymentPreparationLine from './assets/paymentPreparationLine.svg'
-import bar59 from './assets/bar59.svg'
-import bar61 from './assets/bar61.svg'
-import bar70 from './assets/bar70.svg'
+import paymentPreparationIcon from '../public/images/paymentPreparationIcon.svg'
+import pennyTestingIcon from '../public/images/pennyTestingIcon.svg'
+import embeddedFormsIcon from '../public/images/embeddedFormsIcon.svg'
+import paymentPreparationLine from '../public/images/paymentPreparationLine.svg'
+import bar59 from '../public/images/bar59.svg'
+import bar61 from '../public/images/bar61.svg'
+import bar70 from '../public/images/bar70.svg'
 
 export const contacts = {
     email: 'sales@paysway.io',

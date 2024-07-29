@@ -54,8 +54,8 @@
     width: 24px;
     height: 24px;
     background-color: #000;
-    mask-image: url("../../../assets/headerDropdownArrow.svg");
-    -webkit-mask-image: url("../../../assets/headerDropdownArrow.svg");
+    mask-image: url("../../../../public/images/headerDropdownArrow.svg");
+    -webkit-mask-image: url("../../../../public/images/headerDropdownArrow.svg");
   }
 
   &:hover:after {
@@ -135,8 +135,8 @@
     width: 24px;
     height: 24px;
     background-color: #000;
-    mask-image: url("../../../assets/lock.svg");
-    -webkit-mask-image: url("../../../assets/lock.svg");
+    mask-image: url("../../../../public/images/lock.svg");
+    -webkit-mask-image: url("../../../../public/images/lock.svg");
   }
 
   &:hover:after {
