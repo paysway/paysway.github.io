@@ -1,0 +1,23 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://paysway.io</loc>
+    </url>
+    <url>
+        <loc>https://paysway.io/products/payment-preparation</loc>
+    </url>
+    <url>
+        <loc>https://paysway.io/products/penny-testing</loc>
+    </url>
+    <url>
+        <loc>https://paysway.io/products/embedded-forms</loc>
+    </url>
+    <url>
+        <loc>https://blog.paysway.io</loc>
+    </url>
+    <url>
+        <loc>https://blog.paysway.io/convert-unstructured-postal-addresses-into-structured-fields-with-paysway</loc>
+    </url>
+    <url>
+        <loc>https://blog.paysway.io/prevent-stuck-transfers-with-paysway</loc>
+    </url>
+</urlset>

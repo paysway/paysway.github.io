@@ -2,6 +2,8 @@ import React, { useEffect, useRef } from 'react'
 import stl from './HomePageCover.module.scss'
 import officeBuildingAnimation from '../../../public/lotties/officeBuilding.json'
 import Lottie from 'react-lottie-player'
+import officeBuilding from '../../../public/images/officeBuilding.webp'
+import Image from 'next/image'
 
 const initialFrame = 50;
 const playFrom = 50;
@@ -44,7 +46,8 @@ function HomePageCover() {
                             our APIs and SDKs.
                         </p>
                     </div>
-                    <div className={stl.officeBuildingBox} ref={boxRef}>
+                    <div className={stl.officeBuildingBox} ref={boxRef} >
+                        <Image fill={true} src={officeBuilding} alt="office building" />
                         <Lottie
                             ref={lottieRef}
                             animationData={officeBuildingAnimation}

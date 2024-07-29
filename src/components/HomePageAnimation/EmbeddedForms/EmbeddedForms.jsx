@@ -24,8 +24,8 @@ function EmbeddedForms() {
     const labels = forms.map((form) => form.currency)
     return (
         <Tabs labels={labels}>
-            {forms.map((form) => (
-                <div className={stl.formBox}>{form.content}</div>
+            {forms.map((form, idx) => (
+                <div className={stl.formBox} key={idx}>{form.content}</div>
             ))}
         </Tabs>
     )

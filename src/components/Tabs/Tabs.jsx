@@ -7,10 +7,11 @@ const Tabs = ({ children, labels }) => {
     return (
         <div className={stl.tabsBox}>
             <div className={stl.switcher}>
-                {labels.map((label, index) => (
+                {labels.map((label, idx) => (
                     <button
-                        className={`${stl.button} ${index === activeTab && stl.selected}`}
-                        onClick={() => setActiveTab(index)}
+                        className={`${stl.button} ${idx === activeTab && stl.selected}`}
+                        onClick={() => setActiveTab(idx)}
+                        key={idx}
                     >
                         {label}
                     </button>

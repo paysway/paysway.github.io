@@ -1,7 +1,6 @@
 .logoBox {
   margin: 0;
   display: flex;
-  width: 218px;
   gap: 10px;
   align-items: center;
   transition: gap 0.3s ease;
@@ -14,6 +13,8 @@
 .letteringLogo {
   padding: 0;
   margin: 0;
+  width: 145px;
+  height: 23px;
 }
 
 .logo {

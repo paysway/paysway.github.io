@@ -72,6 +72,7 @@ function HomePageProductsList() {
                                 return (
                                     <div
                                         ref={(el) => (items.current[idx] = el)}
+                                        key={idx}
                                     >
                                         <HomePageProductsListItem
                                             content={product}

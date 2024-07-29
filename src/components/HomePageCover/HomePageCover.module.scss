@@ -34,10 +34,8 @@
   margin: 38px 0;
   padding: 0;
   min-width: min(50vw, 640px);
+  aspect-ratio: 1 / 1;
   position: relative;
-  background-image: url("../../../public/images/officeBuilding.webp");
-  background-repeat: no-repeat;
-  background-size: cover;
   overflow: hidden;
 }
 

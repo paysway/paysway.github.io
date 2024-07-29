@@ -12,9 +12,9 @@ function Blog() {
                         See all
                     </a>
                     <div className={stl.blogPostsList}>
-                        {blogPosts.map((post) => {
+                        {blogPosts.map((post, idx) => {
                             return (
-                                <div className={stl.blogPost}>
+                                <div className={stl.blogPost} key={idx}>
                                     <a href={post.link}>
                                         <div className={stl.blogPostImage}>
                                             <Image

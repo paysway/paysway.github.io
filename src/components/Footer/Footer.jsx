@@ -37,8 +37,8 @@ function Footer() {
                                     Products
                                 </div>
                                 <ul className={stl.footerSublist}>
-                                    {Object.values(products).map((product) => (
-                                        <li>
+                                    {Object.values(products).map((product, idx) => (
+                                        <li key={idx}>
                                             <Link
                                                 className={stl.link}
                                                 href={product.path}
@@ -78,12 +78,12 @@ function Footer() {
                                 </ul>
                             </li>
                             {contacts.addresses.map((address, idx) => (
-                                <li>
+                                <li key={idx}>
                                     <div className={stl.addressHeader}>
                                         {address.title}
                                     </div>
-                                    {address.lines.map((line) => (
-                                        <p className={stl.addressLine}>
+                                    {address.lines.map((line, idx) => (
+                                        <p className={stl.addressLine} key={idx}>
                                             {line}
                                         </p>
                                     ))}
