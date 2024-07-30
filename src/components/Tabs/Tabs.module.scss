@@ -12,21 +12,19 @@
   left: 0;
   right: 0;
   height: 48px;
+  z-index: 1;
   width: fit-content;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  border-radius: 8px;
-  z-index: 10;
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 1fr;
 }
 
 .button {
+  position: relative;
   margin: 0;
   padding: 11px 16px;
   border: 1px solid #C6C6C6;
   outline: none;
-  width: fit-content;
   box-shadow: none;
   box-sizing: border-box;
   color: #7543DD;
@@ -50,13 +48,12 @@
   &:hover, &.selected {
     background: #E8E4F9;
     border: 1px solid #7543DD;
-    z-index: 11;
+    z-index: 2;
   }
 
   &:active {
     background: #D1C4F3;
     border: 1px solid #7543DD;
-    z-index: 11;
+    z-index: 2;
   }
 }
-

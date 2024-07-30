@@ -9,6 +9,7 @@ function Footnotes({ notes }) {
                     {notes.map((footnote, idx) => (
                         <p
                             className={stl.footnote}
+                            key={idx}
                         >{`${idx + 1}. ${footnote}`}</p>
                     ))}
                 </div>

@@ -1,12 +1,14 @@
 <svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" style="width: 100%; height: 100%;">
 <g clip-path="url(#clip0_1264_7282)">
 <text fill="#393939" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="26" font-weight="600" letter-spacing="-0.5px"><tspan x="40" y="74.4545">Corridor settings</tspan></text>
-<rect x="374" y="47" width="100" height="36" rx="18" fill="#E8E4F9"/>
-<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="390" y="70.8182">Add new</tspan></text>
-<rect x="484" y="47" width="136" height="36" rx="18" fill="#E8E4F9"/>
-<text fill="#7543DD" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="500" y="70.8182">Import library</tspan></text>
+<rect x="374.5" y="47.5" width="99" height="35" rx="17.5" fill="white"/>
+<rect x="374.5" y="47.5" width="99" height="35" rx="17.5" stroke="#2E6DC5"/>
+<text fill="#2E6DC5" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="390" y="70.8182">Add new</tspan></text>
+<rect x="484.5" y="47.5" width="135" height="35" rx="17.5" fill="white"/>
+<rect x="484.5" y="47.5" width="135" height="35" rx="17.5" stroke="#2E6DC5"/>
+<text fill="#2E6DC5" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0em"><tspan x="500" y="70.8182">Import library</tspan></text>
 <g filter="url(#filter0_d_1264_7282)">
-<path d="M40 131.931C40 122.58 47.58 115 56.9305 115H726.07C735.42 115 743 122.58 743 131.931V575.069C743 584.42 735.42 592 726.069 592H56.9305C47.58 592 40 584.42 40 575.069V131.931Z" fill="white"/>
+<path d="M40 131.931C40 122.58 47.58 115 56.9305 115H726.07C735.42 115 743 122.58 743 131.931V575.069C743 584.42 735.42 592 726.07 592H56.9305C47.58 592 40 584.42 40 575.069V131.931Z" fill="white"/>
 <path d="M135.074 139L135.074 554" stroke="#F4F4F4"/>
 <path d="M247.074 139L247.074 554" stroke="#F4F4F4"/>
 <path d="M515.074 139L515.074 554" stroke="#F4F4F4"/>
@@ -19,40 +21,40 @@
 <text fill="#8D8D8D" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="390" y="195.727">Account number</tspan><tspan x="390" y="211.727">type</tspan></text>
 <text fill="#8D8D8D" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="524" y="195.727">Secondary </tspan><tspan x="524" y="211.727">account details</tspan></text>
 <line x1="64" y1="231.56" x2="719" y2="231.56" stroke="#A8A8A8" stroke-width="0.879779"/>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="64" y="270.727">USD</tspan></text>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="146" y="270.727">United States</tspan></text>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="260" y="270.727">ABA</tspan></text>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="394" y="270.727">Account number </tspan></text>
-<rect x="528" y="252" width="47.25" height="28" rx="14" fill="#7543DD"/>
-<rect x="550.444" y="255.5" width="21.2625" height="21" rx="10.5" fill="white"/>
-<line x1="64" y1="299.56" x2="719" y2="299.56" stroke="#F4F4F4" stroke-width="0.879779"/>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="64" y="340.727">GBP</tspan></text>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="146" y="332.727">United </tspan><tspan x="146" y="348.727">Kingdom</tspan></text>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="260" y="340.727">Sort code</tspan></text>
-<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="394" y="340.727">Account number </tspan></text>
-<rect x="528" y="322" width="47.25" height="28" rx="14" fill="#7543DD"/>
-<rect x="550.444" y="325.5" width="21.2625" height="21" rx="10.5" fill="white"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="64" y="272.727">GBP</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="146" y="264.727">United </tspan><tspan x="146" y="280.727">Kingdom</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="260" y="272.727">Sort code</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="394" y="272.727">Account number </tspan></text>
+<rect x="528" y="254" width="47.25" height="28" rx="14" fill="url(#paint0_linear_1264_7282)"/>
+<rect x="550.443" y="257.5" width="21.2625" height="21" rx="10.5" fill="white"/>
+<line x1="64" y1="303.56" x2="719" y2="303.56" stroke="#F4F4F4" stroke-width="0.879779"/>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="64" y="342.727">USD</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="146" y="342.727">United States</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="260" y="342.727">ABA</tspan></text>
+<text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="394" y="342.727">Account number </tspan></text>
+<rect x="528" y="324" width="47.25" height="28" rx="14" fill="url(#paint1_linear_1264_7282)"/>
+<rect x="550.443" y="327.5" width="21.2625" height="21" rx="10.5" fill="white"/>
 <line x1="64" y1="371.56" x2="719" y2="371.56" stroke="#F4F4F4" stroke-width="0.879779"/>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="64" y="410.727">EUR</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="146" y="410.727">Germany</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="260" y="410.727">–</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="394" y="410.727">IBAN  </tspan></text>
 <rect x="528" y="392" width="47.25" height="28" rx="14" fill="#C6C6C6"/>
-<rect x="531.544" y="395.5" width="21.2625" height="21" rx="10.5" fill="white"/>
+<rect x="531.543" y="395.5" width="21.2625" height="21" rx="10.5" fill="white"/>
 <line x1="64" y1="439.56" x2="719" y2="439.56" stroke="#F4F4F4" stroke-width="0.879779"/>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="64" y="478.727">AUD</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="146" y="478.727">Australia</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="260" y="478.727">BSB</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="394" y="478.727">Account number </tspan></text>
 <rect x="528" y="460" width="47.25" height="28" rx="14" fill="#C6C6C6"/>
-<rect x="531.544" y="463.5" width="21.2625" height="21" rx="10.5" fill="white"/>
+<rect x="531.543" y="463.5" width="21.2625" height="21" rx="10.5" fill="white"/>
 <line x1="64" y1="507.56" x2="719" y2="507.56" stroke="#F4F4F4" stroke-width="0.879779"/>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="64" y="548.727">CAD</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="146" y="548.727">Canada</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="260" y="540.727">Institution and </tspan><tspan x="260" y="556.727">transit number</tspan></text>
 <text fill="#262626" xml:space="preserve" style="white-space: pre" font-family="Inter" font-size="13" font-weight="500" letter-spacing="0.1px"><tspan x="394" y="548.727">Account number </tspan></text>
-<rect x="528" y="530" width="47.25" height="28" rx="14" fill="#7543DD"/>
-<rect x="550.444" y="533.5" width="21.2625" height="21" rx="10.5" fill="white"/>
+<rect x="528" y="530" width="47.25" height="28" rx="14" fill="url(#paint2_linear_1264_7282)"/>
+<rect x="550.443" y="533.5" width="21.2625" height="21" rx="10.5" fill="white"/>
 <line x1="247.074" y1="172.56" x2="515.074" y2="172.56" stroke="#F4F4F4" stroke-width="0.879779"/>
 </g>
 </g>
@@ -67,6 +69,18 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1264_7282"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1264_7282" result="shape"/>
 </filter>
+<linearGradient id="paint0_linear_1264_7282" x1="575.25" y1="254" x2="529.385" y2="283.495" gradientUnits="userSpaceOnUse">
+<stop stop-color="#18D3ED"/>
+<stop offset="1" stop-color="#6D4CD5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_1264_7282" x1="575.25" y1="324" x2="529.385" y2="353.495" gradientUnits="userSpaceOnUse">
+<stop stop-color="#18D3ED"/>
+<stop offset="1" stop-color="#6D4CD5"/>
+</linearGradient>
+<linearGradient id="paint2_linear_1264_7282" x1="575.25" y1="530" x2="529.385" y2="559.495" gradientUnits="userSpaceOnUse">
+<stop stop-color="#18D3ED"/>
+<stop offset="1" stop-color="#6D4CD5"/>
+</linearGradient>
 <clipPath id="clip0_1264_7282">
 <rect width="640" height="640" fill="white" transform="translate(0 -0.5)"/>
 </clipPath>

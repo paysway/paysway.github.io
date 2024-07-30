@@ -18,8 +18,8 @@ function MobileMenu() {
                 <li className={stl.menuItem}>
                     Products
                     <ul className={stl.menuSublist}>
-                        {Object.values(products).map((product) => (
-                            <li className={stl.menuSublistItem}>
+                        {Object.values(products).map((product, idx) => (
+                            <li className={stl.menuSublistItem} key={idx}>
                                 <Link href={product.path} className={stl.menuLink}>
                                     {product.name}
                                 </Link>

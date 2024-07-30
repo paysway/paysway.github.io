@@ -191,9 +191,9 @@ export const productPagesContent = {
         },
         description: {
             points: [
-                'Configure the corridors to disable, adjust, or create destinations, currencies, and additional fields manually or through spreadsheet import.',
-                'Integrate our low-code UI into your web or mobile application. It already supports all the validations with clear reasons, ETAs, and fee estimations out of the box.',
-                'Use the enriched input for beneficiary storage or payment initiation.',
+                'Configure the corridors using our convenient UI or by importing a spreadsheet.',
+                'Integrate our solution into your web or mobile application.',
+                'Use the results for beneficiary storage or payment initiation as your customers input beneficiary details into our UI components.',
             ],
             button: {
                 text: `Schedule a call`,

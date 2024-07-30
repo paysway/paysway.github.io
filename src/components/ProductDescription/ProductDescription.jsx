@@ -23,10 +23,10 @@ function ProductDescription({
                     </div>
                     <div className={stl.textBox}>
                         <ul className={stl.pointsBox}>
-                            {points.map((point, index) => (
-                                <li className={stl.pointBox}>
+                            {points.map((point, idx) => (
+                                <li className={stl.pointBox} key={idx}>
                                     <div className={stl.pointNumber}>
-                                        <span>{index + 1}</span>
+                                        <span>{idx + 1}</span>
                                     </div>
                                     <PointText point={point} />
                                 </li>

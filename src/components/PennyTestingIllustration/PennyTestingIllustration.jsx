@@ -1,45 +1,49 @@
-import stl from './PennyTestingIllustration.module.scss'
+import stl from "./PennyTestingIllustration.module.scss";
 import pennyTestingFullLottie from "../../../public/lotties/pennyTestingFull.json";
 import Lottie from "react-lottie-player";
-import React, {useEffect, useRef} from "react";
+import React, { useRef, useState } from "react";
 
 const initialFrame = 45;
-const playFrom = 10;
-
+const playFrom = 45;
 
 function PennyTestingIllustration() {
-    const boxRef = useRef();
-    const lottieRef = useRef();
+  const boxRef = useRef();
+  const lottieRef = useRef();
+  const [playedOnce, setPlayedOnce] = useState(false);
 
-    useEffect(() => {
-        const observer = new IntersectionObserver(
-            ([entry]) => {
-                if (entry.isIntersecting) {
-                    lottieRef.current.goToAndPlay(playFrom, true);
-                }
-            },
-            {
-                threshold: 1
-            }
-        );
-        if (boxRef.current) observer.observe(boxRef.current);
-        return () => {
-            if (boxRef.current) observer.unobserve(boxRef.current);
-        };
-    }, [boxRef, lottieRef]);
+  const observe = () => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          if (!playedOnce) {
+            setTimeout(() => lottieRef.current.goToAndPlay(playFrom, true), 300);
+            setPlayedOnce(true);
+            observer.unobserve(entry.target);
+          }
+        }
+      },
+      {
+        threshold: [0.5],
+      },
+    );
 
+    if (boxRef.current) {
+      observer.observe(boxRef.current);
+    }
+  };
 
-    return (
-        <div className={stl.mainBox} ref={boxRef}>
-            <Lottie
-                ref={lottieRef}
-                animationData={pennyTestingFullLottie}
-                loop={false}
-                play={false}
-                goTo={initialFrame}
-            />
-        </div>
-    )
+  return (
+    <div className={stl.mainBox} ref={boxRef}>
+      <Lottie
+        ref={lottieRef}
+        animationData={pennyTestingFullLottie}
+        loop={false}
+        play={false}
+        onLoad={observe}
+        goTo={initialFrame}
+      />
+    </div>
+  );
 }
 
-export default PennyTestingIllustration
+export default PennyTestingIllustration;

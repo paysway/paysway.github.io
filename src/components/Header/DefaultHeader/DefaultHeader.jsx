@@ -10,7 +10,7 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 
-function DropDownListItem({ title, icon, path }) {
+function DropDownListItem({ title, icon, path}) {
     return (
         <Link href={path} className={stl.dropDownListItem}>
             <Image
@@ -38,11 +38,12 @@ function DefaultHeader() {
                         <li className={`${stl.listItem} ${stl.dropDownItem}`}>
                             Products
                             <div className={stl.dropDownList}>
-                                {Object.values(products).map((product) => (
+                                {Object.values(products).map((product, idx) => (
                                     <DropDownListItem
                                         title={product.name}
                                         icon={product.icon}
                                         path={product.path}
+                                        key={idx}
                                     ></DropDownListItem>
                                 ))}
                             </div>
