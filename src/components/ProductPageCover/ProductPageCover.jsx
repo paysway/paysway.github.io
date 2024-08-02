@@ -23,7 +23,7 @@ function ProductPageCover({
                                 <span className={stl.percent}>
                                     {tip.percent}%
                                 </span>
-                                <Image src={tip.bar} alt="process" />
+                                <Image src={tip.bar} alt={`${tip.percent}%`} />
                                 <span className={stl.percentsSpan}>
                                     {tip.text}
                                     <sup className={stl.sup}>1</sup>

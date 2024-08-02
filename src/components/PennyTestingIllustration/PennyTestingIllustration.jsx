@@ -16,7 +16,7 @@ function PennyTestingIllustration() {
       ([entry]) => {
         if (entry.isIntersecting) {
           if (!playedOnce) {
-            setTimeout(() => lottieRef.current.goToAndPlay(playFrom, true), 300);
+            setTimeout(() => lottieRef.current.goToAndPlay(playFrom, true), 2000);
             setPlayedOnce(true);
             observer.unobserve(entry.target);
           }

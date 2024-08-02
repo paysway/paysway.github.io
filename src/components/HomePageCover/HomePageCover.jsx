@@ -41,9 +41,7 @@ function HomePageCover() {
                             Radically improve bank payments
                         </h1>
                         <p className={stl.subtitle}>
-                            Ensure successful transfers, enhance user
-                            experience, and minimize maintenance with a range of
-                            our APIs and SDKs.
+                            Ensure successful transfers, enhance user experience, and minimize maintenance with our range of APIs and SDKs.
                         </p>
                     </div>
                     <div className={stl.officeBuildingBox} ref={boxRef} >

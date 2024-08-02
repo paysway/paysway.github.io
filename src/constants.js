@@ -82,14 +82,14 @@ export const productsListContent = [
         productIcon: products.pennyTesting.icon,
         title: 'Let us pave the way for critical payments',
         description:
-            'We can check if a beneficiary account received credits in the past. If not, we’ll proceed with a test transfer and inform you upon credit confirmation or rejection, enabling you to move forward with your most important wires.',
+            'We predict transfer success through extensive validations and past credit verifications. Test transactions are performed if needed to ensure the beneficiary receives the important payment seamlessly.',
         buttonText: `Start with ${products.pennyTesting.name}`,
         path: products.pennyTesting.path,
     },
     {
         productName: products.embeddedForms.name,
         productIcon: products.embeddedForms.icon,
-        title: 'Streamline your front end for beneficiary details collection',
+        title: 'Streamline your beneficiary details collection',
         description:
             'Ask only what’s necessary every time, set clear expectations, and reduce maintenance and development efforts.',
         buttonText: `Start with ${products.embeddedForms.name}`,
@@ -102,7 +102,7 @@ export const productPagesContent = {
         cover: {
             title: products.paymentPreparation.name,
             subtitle:
-                'Avoid having to deal with unclear errors, inexplicable returns, and delayed transactions with our API.',
+                'Avoid dealing with unclear errors, inexplicable returns, and delayed transactions with our API.',
             productIcon: products.paymentPreparation.icon,
             tip: {
                 percent: 70,
@@ -152,9 +152,9 @@ export const productPagesContent = {
         },
         description: {
             points: [
-                'Provide the beneficiary details to Penny Testing API.',
+                'Provide the beneficiary details to the Penny Testing API.',
                 'Receive the response if a test transfer is recommended based on the payment type and the recipient’s credit history.',
-                'Proceed with the penny test through our rails. We’ll respond with the confirmation from the beneficiary and their bank.',
+                'Proceed with the penny test through our system. We’ll confirm receipt with the beneficiary and their bank.',
             ],
             button: {
                 text: `Schedule a call`,
