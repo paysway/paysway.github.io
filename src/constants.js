@@ -61,7 +61,7 @@ export const blogPosts = [
     },
     {
         title: 'Prevent stuck transfers with PaySway',
-        coverLink: 'https://blog.paysway.io/content/images/2024/07/red-stripes.svg',
+        coverLink: 'https://blog.paysway.io/content/images/2024/08/stuck-transfers.svg',
         link: 'https://blog.paysway.io/prevent-stuck-transfers-with-paysway',
     },
 
