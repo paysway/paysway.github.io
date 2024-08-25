@@ -55,16 +55,20 @@ export const products = {
 
 export const blogPosts = [
     {
-        title: 'Convert unstructured postal addresses into structured fields with PaySway',
-        coverLink: 'https://blog.paysway.io/content/images/2024/07/town-street.svg',
-        link: 'https://blog.paysway.io/convert-unstructured-postal-addresses-into-structured-fields-with-paysway',
+        title: 'Improve and optimize your bank payments with PaySway',
+        coverLink: 'https://blog.paysway.io/content/images/2024/08/Blog-cover.svg',
+        link: 'https://blog.paysway.io/improve-and-optimize-your-bank-payments-with-paysway/',
     },
     {
         title: 'Prevent stuck transfers with PaySway',
         coverLink: 'https://blog.paysway.io/content/images/2024/08/stuck-transfers.svg',
         link: 'https://blog.paysway.io/prevent-stuck-transfers-with-paysway',
     },
-
+    {
+        title: 'Convert unstructured postal addresses into structured fields with PaySway',
+        coverLink: 'https://blog.paysway.io/content/images/2024/07/town-street.svg',
+        link: 'https://blog.paysway.io/convert-unstructured-postal-addresses-into-structured-fields-with-paysway',
+    },
 ]
 
 export const productsListContent = [
