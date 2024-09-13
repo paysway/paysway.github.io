@@ -26,13 +26,14 @@ export const externalLinks = {
     linkedIn: 'https://www.linkedin.com/company/paysway',
     calendly: 'https://calendly.com/paysway/intro',
     blog: "https://blog.paysway.io",
+    docs: "https://docs.paysway.io",
 }
 
 export const homePagePath = '/'
 export const paymentPreparationPagePath = '/products/payment-preparation'
 export const pennyTestingPagePath = '/products/penny-testing'
 export const embeddedFormsPagePath = '/products/embedded-forms'
-export const developersLink = `mailto:${contacts.email}?subject=Send%20me%20the%20API%20documentation`
+export const developersLink = externalLinks.docs
 
 export const products = {
     paymentPreparation: {
