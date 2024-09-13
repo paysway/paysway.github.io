@@ -55,7 +55,7 @@ function DefaultHeader() {
                         </li>
                         <li className={stl.listItem}>
                             <a
-                                className={`${stl.headerLink} ${stl.lockIcon}`}
+                                className={stl.headerLink}
                                 href={developersLink}
                             >
                                 Developers
