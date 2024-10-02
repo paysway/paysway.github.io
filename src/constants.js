@@ -56,9 +56,9 @@ export const products = {
 
 export const blogPosts = [
     {
-        title: 'Improve and optimize your bank payments with PaySway',
-        coverLink: 'https://blog.paysway.io/content/images/2024/08/Blog-cover.svg',
-        link: 'https://blog.paysway.io/improve-and-optimize-your-bank-payments-with-paysway/',
+        title: 'Effortless bank payment preparation with PaySway',
+        coverLink: 'https://blog.paysway.io/content/images/size/w1140/2024/09/Background-photo.png',
+        link: 'https://blog.paysway.io/effortless-bank-payment-preparation-with-paysway/',
     },
     {
         title: 'Prevent stuck transfers with PaySway',
